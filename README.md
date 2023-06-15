@@ -22,4 +22,4 @@ How it's done:
 
 8) Built and Start Debug.
 
-9) The add-in will be added in Tools section and will be visible when a .asm file will be openned.
+9) The add-in will be added in Tools section and will be visible when a .asm file is openned.
