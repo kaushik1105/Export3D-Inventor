@@ -1,0 +1,14 @@
+<Addin Type="Standard">
+  <!--Created for Autodesk Inventor Version 25.0-->
+  <ClassId>{200b2674-6344-406a-8588-825ae4cd2325}</ClassId>
+  <ClientId>{200b2674-6344-406a-8588-825ae4cd2325}</ClientId>
+  <DisplayName>Export3D</DisplayName>
+  <Description>Export3D</Description>
+  <Assembly>Export3D.dll</Assembly>
+  <LoadOnStartUp>1</LoadOnStartUp>
+  <UserUnloadable>1</UserUnloadable>
+  <Hidden>0</Hidden>
+  <SupportedSoftwareVersionGreaterThan>21..</SupportedSoftwareVersionGreaterThan>
+  <DataVersion>1</DataVersion>
+  <UserInterfaceVersion>1</UserInterfaceVersion>
+</Addin>
